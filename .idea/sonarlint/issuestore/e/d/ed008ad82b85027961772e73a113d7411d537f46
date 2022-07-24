@@ -1,0 +1,15 @@
+
+b
+java:S2095"EUse try-with-resources or close this "Scanner" in a "finally" clause.(ŸîÊ8±ÿŠ®¢0
+b
+java:S2259"@A "NullPointerException" could be thrown; "sc" is nullable here.(—ã¯—øÿÿÿÿ8ª¦Ø±¢0
+L
+java:S1128"/Remove this unused import 'java.util.Iterator'.(¥ÍòÕ8‘³²¢0
+Q
+java:S3740"/Provide the parametrized type for this generic.(¶×Íøÿÿÿÿ8ÿšÍ®¢0
+Q
+java:S3740"/Provide the parametrized type for this generic.(¶×Íøÿÿÿÿ8ÿšÍ®¢0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(úıÖğÿÿÿÿÿ8Ö•²¢0
+7
+java:S1220""Move this file to a named package.8Ëé‡®¢0
+Z	java:S106!"9Replace this use of System.out or System.err by a logger.(úıÖğÿÿÿÿÿ8Ö•²¢0
